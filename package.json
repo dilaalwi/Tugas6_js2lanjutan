@@ -1,0 +1,24 @@
+{
+  "name": "tugas6_js2lanjutan",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "nomor4fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilaalwi/Tugas6_js2lanjutan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilaalwi/Tugas6_js2lanjutan/issues"
+  },
+  "homepage": "https://github.com/dilaalwi/Tugas6_js2lanjutan#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
